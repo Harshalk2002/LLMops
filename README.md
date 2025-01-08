@@ -1,5 +1,5 @@
 # LLMops
-# Project-4 : LLMOps
+# Project-0 : LLMOps
 I am walking through some key steps for taking an LLM-based pipeline to production. This pipeline will be familiar to - previous modules: **Summarization of news articles** using a pre-trained model from Hugging Face.
 
 Steps: 
